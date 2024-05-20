@@ -1,0 +1,16 @@
+Number Mirror:
+a=int(input())
+print(a)
+
+Chef and Instant Noodles:
+X, Y = map(int, input().split())
+print(X*Y)
+
+CodeChef Learn Problem Solving:
+A=int(input())
+print(A+A)
+
+Rearrange Code:
+a,b=map(int,input().split())
+c=a+b
+print(c)
